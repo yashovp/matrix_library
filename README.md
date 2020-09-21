@@ -1,6 +1,7 @@
 # matrix_library
 
-Library description and working mentioned in matrix.h file 
+Library was built to help compute matrix transposition and matrix multiplication. 
+The larger goal was to better understand Object Oriented Design techniques.
 
 Compiling instruction
 
